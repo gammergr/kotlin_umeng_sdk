@@ -54,4 +54,17 @@ google-services.json
 freeline.py
 freeline/
 app/
+
+.DS_Store
+.gradle/4.1/fileHashes/fileHashes.bin
+.gradle/4.1/fileHashes/fileHashes.lock
+.gradle/4.1/javaCompile/javaCompile.lock
+.gradle/4.1/javaCompile/taskHistory.bin
+.gradle/4.1/taskHistory/fileSnapshots.bin
+.gradle/4.1/taskHistory/taskHistory.bin
+.gradle/4.1/taskHistory/taskHistory.lock
+.idea/workspace.xml
+app/app.iml
+
+
 freeline_project_description.json
