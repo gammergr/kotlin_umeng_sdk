@@ -3,11 +3,11 @@ package com.qt.basep.ui.activities
 import android.support.v7.graphics.drawable.DrawerArrowDrawable
 import android.support.v7.widget.RecyclerView
 import android.support.v7.widget.Toolbar
-import com.qt.basep.R
 import com.qt.basep.extensions.ctx
 import com.qt.basep.extensions.slideEnter
 import com.qt.basep.extensions.slideExit
 import com.qt.basep.ui.App
+import com.qt.basep.R
 import org.jetbrains.anko.startActivity
 import org.jetbrains.anko.toast
 

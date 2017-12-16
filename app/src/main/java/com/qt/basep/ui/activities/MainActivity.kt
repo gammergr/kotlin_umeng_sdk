@@ -4,9 +4,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.Toolbar
-import com.antonioleiva.weatherapp.R
-import com.qt.basep.domain.commands.RequestForecastCommand
-import com.qt.basep.domain.model.ForecastList
+import com.qt.basep.R
 import com.qt.basep.extensions.DelegatesExt
 import com.qt.basep.ui.adapters.ForecastListAdapter
 import kotlinx.android.synthetic.main.activity_main.*

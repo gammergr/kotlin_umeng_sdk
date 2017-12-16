@@ -7,7 +7,7 @@ android {
     buildToolsVersion "26.0.2"
 
     defaultConfig {
-        applicationId "com.antonioleiva.weatherapp"
+        applicationId "com.qt.basep"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

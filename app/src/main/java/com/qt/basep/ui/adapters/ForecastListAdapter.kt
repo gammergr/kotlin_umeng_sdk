@@ -4,10 +4,8 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.qt.basep.R
-import com.qt.basep.domain.model.Forecast
-import com.qt.basep.domain.model.ForecastList
 import com.qt.basep.extensions.ctx
+import com.qt.basep.R
 import com.qt.basep.extensions.toDateString
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_forecast.view.*
